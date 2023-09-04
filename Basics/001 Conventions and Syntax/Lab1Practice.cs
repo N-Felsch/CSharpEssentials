@@ -22,7 +22,9 @@ namespace HelloWorld
   {
     static void Main()
     {
-      Console.WriteLine("Nicholas");    
+      Console.WriteLine("Nicholas");  
+      int myNum = 15;
+      Console.WriteLine(myNum);  
      }
   }
 }
