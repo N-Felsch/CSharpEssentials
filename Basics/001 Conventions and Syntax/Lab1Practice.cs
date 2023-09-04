@@ -6,7 +6,7 @@ namespace MyApplication
   {
     static void Main(string[] args)
     {
-      string name = "Anthony";
+      string name = "Nicholas";
       Console.WriteLine(name); 
       int number = 11;
       Console.WriteLine(number);
