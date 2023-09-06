@@ -138,6 +138,8 @@ namespace Numbers
 // I tried jazzing it up to include the title of ages, but CodeAcademy wouldn't let me.
 using System;
 
+
+//Here we are calculating our age on Jupiter and on Earth and how long it would take to get there and our age when we did.
 namespace PlanetCalculations
 {
   class Program
@@ -173,6 +175,8 @@ namespace PlanetCalculations
   }
 }
 
+
+//Here we are using operators and experimenting
 using System;
 
 namespace MakingProgress
@@ -196,6 +200,8 @@ namespace MakingProgress
   }
 }
 
+
+//More operator experimentation
 using System;
 
 namespace ClassTeams
@@ -217,7 +223,7 @@ namespace ClassTeams
   }
 }
 
-
+//Here we are using the built in methods to convert variables into different data types
 using System;
 
 namespace LowestNumber
@@ -242,6 +248,8 @@ namespace LowestNumber
     }
   }
 }
+
+//Using more built in operators to interpret numbers, doubles, ints.
 using System;
 
 namespace DocumentationHunt
