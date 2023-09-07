@@ -1,4 +1,4 @@
-/* Extend your program to include variable manipulation. Perform arithmetic operations (addition, subtraction, multiplication, and division)
+		/* Extend your program to include variable manipulation. Perform arithmetic operations (addition, subtraction, multiplication, and division)
  on variables of numeric types. Display the results of these operations on the console. */
 
  //This is just a regular old number, or an integer
@@ -41,9 +41,15 @@ int minus = four - two;
 int adding = two + four;
 
 //Here we're going to see what happens when I add a double to an int
-int intSubDouble = four - twoPointOne;
+//Hmm I guess it doesn't actually work
+//int intSubDouble = four - twoPointOne;
 double doubleIntAdd = four + twoPointThreeTwo;
+int divided = four / two;
+int modulo = four % two;
 
 
-Console.WriteLine()
-
+Console.WriteLine("I'm expecting to get 2, = " + minus);
+Console.WriteLine("I'm expecting to get 6, = " + adding);
+Console.WriteLine("I'm expecting to get 6.32, = " + doubleIntAdd);
+Console.WriteLine("I'm expecting to get 2, = " + divided);
+Console.WriteLine("I'm expecting to get 0, = " + modulo);)
