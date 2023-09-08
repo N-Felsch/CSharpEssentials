@@ -9,3 +9,15 @@ public class CorrectTheErrors
         Console.WriteLine("HW);
       
 }
+
+// This is the correct code
+using System;
+
+public class CorrectTheErrors
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("HW");
+	}
+      
+}

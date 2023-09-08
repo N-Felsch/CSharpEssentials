@@ -7,3 +7,20 @@
 //Add another class with any name, add variables 
 //Using the new keyword create several objects
 //Console writeline the Objects variables
+
+using System;
+
+public class Candy
+{
+    public Candy;
+
+    public void Main()
+    {
+        Console.WriteLine(Candy);
+    }
+}
+
+
+
+
+/* Honestly I am still trying to figure this all out, but I am trying really hard. I hope to be able to understand this better here soon */
