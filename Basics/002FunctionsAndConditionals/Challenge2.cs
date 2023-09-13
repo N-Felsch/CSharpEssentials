@@ -17,7 +17,7 @@ public class Grader {
 
     // Get user input for exam as %
     Console.WriteLine("What score did you get on your exam, as a percentage?: ");
-    // Having the console store user input as variable
+    // Having the console store user input as string
     string userScore = Console.ReadLine();
     // Force convert to int
     int forceScoreInt = Convert.ToInt32(userScore);
